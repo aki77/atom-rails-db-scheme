@@ -1,0 +1,25 @@
+{
+  "name": "rails-db-scheme",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/aki77/atom-rails-db-scheme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs-plus": "^3.0.0",
+    "inflection": "^1.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "activationHooks": [
+    "language-ruby:grammar-used",
+    "language-ruby-on-rails:grammar-used"
+  ]
+}
