@@ -2,8 +2,12 @@
   "name": "rails-db-scheme",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "Autocomplete+ provider for Rails db schema",
+  "keywords": [
+    "rails",
+    "autocomplete",
+    "activerecord"
+  ],
   "repository": "https://github.com/aki77/atom-rails-db-scheme",
   "license": "MIT",
   "engines": {
