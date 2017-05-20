@@ -6,5 +6,8 @@
   },
   "globals": {
     "atom": false
+  },
+  "settings": {
+    "import/core-modules": [ "atom" ]
   }
 }

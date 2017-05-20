@@ -21,5 +21,12 @@
   "activationHooks": [
     "language-ruby:grammar-used",
     "language-ruby-on-rails:grammar-used"
-  ]
+  ],
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
 }
