@@ -12,6 +12,17 @@ Autocomplete+ provider for Rails db schema.
 
 ![A screenshot](https://i.gyazo.com/7657febab1170ca47deaac26a577de4c.gif)
 
+## Settings
+Set Rails syntax as default.
+```coffeescript
+"*":
+  core:
+    customFileTypes:
+      "source.ruby.rails": [
+        "rb"
+      ]
+```
+
 ## Keymap
 
 No keymap by default.
