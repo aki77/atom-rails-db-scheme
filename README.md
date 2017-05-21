@@ -25,5 +25,4 @@ edit `~/.atom/keymap.cson`
 
 ## TODO
 
-- [ ] Watch schema file
 - [ ] Multi-Folder Projects
