@@ -1,3 +1,6 @@
+## 0.1.3
+* Change suggestionPriority to 1
+
 ## 0.1.2
 * Support for human_attribute_name
 
