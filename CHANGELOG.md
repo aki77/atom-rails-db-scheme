@@ -1,3 +1,6 @@
+## 0.1.5
+* Improve autocomplete pattern
+
 ## 0.1.4
 * Fix a bit
 
