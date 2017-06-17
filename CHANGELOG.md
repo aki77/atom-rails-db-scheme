@@ -1,3 +1,6 @@
+## 0.2.0
+* Support for table select
+
 ## 0.1.5
 * Improve autocomplete pattern
 

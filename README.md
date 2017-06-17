@@ -30,7 +30,7 @@ No keymap by default.
 edit `~/.atom/keymap.cson`
 
 ```coffeescript
-'atom-text-editor[data-grammar~="ruby"]':
+'atom-workspace':
   'ctrl-r s': 'rails-db-scheme:open-scheme'
 ```
 
